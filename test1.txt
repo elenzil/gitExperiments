@@ -1,0 +1,9 @@
+
+
+bool CriticalBoolean = GroundTruth();
+
+
+if (CriticalBoolean) {
+   AbortTheMission();
+}
+
