@@ -3,7 +3,7 @@
 bool CriticalBoolean = !GroundTruth();
 
 
-if (CriticalBoolean) {
+if (!CriticalBoolean) {
    AbortTheMission();
 }
 
