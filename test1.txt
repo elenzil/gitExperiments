@@ -7,3 +7,6 @@ if (CriticalBoolean) {
    AbortTheMission();
 }
 
+if (CriticalBoolean) {
+   ResetHydroFlapper();
+}
